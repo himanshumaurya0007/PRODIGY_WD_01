@@ -1,4 +1,4 @@
-# Interactive Navigation Menu
+# Interactive Navigation Menu for a Website
 
 This project implements an interactive navigation menu for a website. The navigation menu changes its appearance when scrolled or when hovering over a menu item. It has a fixed position and is visible on all pages.
 
