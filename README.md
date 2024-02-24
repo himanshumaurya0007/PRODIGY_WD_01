@@ -25,7 +25,7 @@ This project implements an interactive navigation menu for a website. The naviga
 
 ## Screenshots
 
-[Include screenshots or GIFs demonstrating the project in action]
+![Project Image](./resources/Hover_Effect_&_Scrolled_State.png)
 
 ## Contributing
 
