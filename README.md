@@ -23,7 +23,7 @@ This project implements an interactive navigation menu for a website. The naviga
 - Scroll down the page to see the navigation menu change its background color.
 - Hover over each menu item to see the hover effect.
 
-## Screenshots
+## Project Image
 
 ![Project Image](./resources/Hover_Effect_&_Scrolled_State.png)
 
