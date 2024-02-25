@@ -18,7 +18,7 @@ This project implements an interactive navigation menu for a website. The naviga
 1. Clone the repository.
 2. Open `index.html` in your web browser to view the project.
 
-## How to Use
+## Get Started
 
 - Scroll down the page to see the navigation menu change its background color.
 - Hover over each menu item to see the hover effect.
