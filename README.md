@@ -15,8 +15,9 @@ This project implements an interactive navigation menu for a website. The naviga
 
 ## Setup
 
-1. Clone the repository.
-2. Open `index.html` in your web browser to view the project.
+1. Clone this repository to your local machine.
+2. Navigate to the `PRODIGY_WD_01` folder.
+3. Open `index.html` in your web browser to view the project.
 
 ## Get Started
 
